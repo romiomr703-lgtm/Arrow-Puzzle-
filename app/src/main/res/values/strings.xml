@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Arrow Escape</string>
+
+    <!-- Navigation & Common -->
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_restart_level">Restart level</string>
+    <string name="cd_hint">Use hint</string>
+    <string name="cd_toggle_grid">Toggle alignment grid</string>
+    <string name="cd_reset_zoom">Reset zoom</string>
+    <string name="cd_remaining_arrows">Remaining arrows</string>
+    <string name="cd_heart_full">Remaining life</string>
+    <string name="cd_heart_empty">Lost life</string>
+    <string name="cd_star_earned">Earned star</string>
+    <string name="cd_star_empty">Unearned star</string>
+
+    <!-- Home Screen -->
+    <string name="home_subtitle">Untangle the maze, one arrow at a time</string>
+    <string name="home_continue_level">Play Level %1$d</string>
+    <string name="home_level_label">Level %1$d</string>
+    <string name="home_daily_title">Daily Maze</string>
+    <string name="home_daily_subtitle">Fresh silhouette puzzle every day</string>
+    <string name="home_daily_completed">Solved today</string>
+    <string name="home_daily_play">Play</string>
+    <string name="home_stat_solved">Solved</string>
+    <string name="home_stat_stars">Stars</string>
+    <string name="home_stat_hints">Hints</string>
+    <string name="home_levels_heading">Levels</string>
+    <string name="home_filter_all">All</string>
+    <string name="home_load_more">More Levels</string>
+
+    <!-- Difficulties -->
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_expert">Expert</string>
+    <string name="difficulty_master">Master</string>
+
+    <!-- Gameplay -->
+    <string name="game_level_title">Level %1$d</string>
+    <string name="game_daily_title">Daily Maze</string>
+    <string name="game_reset_zoom">Reset View</string>
+    <string name="game_hint_banner">Tap the highlighted arrow to clear a path</string>
+    <string name="game_no_hints_banner">Complete levels to earn more hints</string>
+
+    <!-- Victory & Game Over -->
+    <string name="victory_eyebrow">Brain Trained</string>
+    <string name="victory_title">Level Completed!</string>
+    <string name="victory_daily_title">Daily Maze Cleared!</string>
+    <string name="victory_next_level">Next Level</string>
+    <string name="victory_play_again">Replay</string>
+    <string name="victory_home">Main</string>
+    <string name="victory_stat_time">Time</string>
+    <string name="victory_stat_arrows">Arrows</string>
+    <string name="victory_hint_reward">+1 Hint Earned</string>
+
+    <string name="game_over_title">Out of Hearts</string>
+    <string name="game_over_subtitle">%1$d arrows left on the board. Try a different starting path!</string>
+    <string name="game_over_retry">Try Again</string>
+    <string name="game_over_home">Back to Levels</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme_section">Visual Style</string>
+    <string name="settings_theme_prismatic">Prismatic</string>
+    <string name="settings_theme_classic">Classic Black</string>
+    <string name="settings_theme_midnight">Midnight</string>
+    <string name="settings_gameplay_section">Gameplay</string>
+    <string name="settings_grid_title">Alignment Grid</string>
+    <string name="settings_grid_desc">Show subtle coordinate guides behind arrows</string>
+    <string name="settings_haptics_title">Haptic Feedback</string>
+    <string name="settings_haptics_desc">Crisp vibrations on arrow escape and collisions</string>
+    <string name="settings_sound_title">Minimalist Sound</string>
+    <string name="settings_sound_desc">Soft harmonic chimes when clearing arrows</string>
+    <string name="settings_reset_progress">Reset Progress</string>
+    <string name="settings_reset_confirm_title">Reset all progress?</string>
+    <string name="settings_reset_confirm_body">This clears your completed levels and stars on this device. Settings will remain intact.</string>
+    <string name="settings_reset_confirm_action">Reset</string>
+    <string name="settings_cancel">Cancel</string>
+</resources>
